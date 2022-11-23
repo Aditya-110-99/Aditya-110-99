@@ -27,12 +27,12 @@
  ## 📊 My Github Stats
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaxcix01&show_icons=true&locale=en&layout=compact&theme=react" alt="adityaxcix01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaxcix&show_icons=true&locale=en&layout=compact&theme=react" alt="adityaxcix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaxcix01&show_icons=true&locale=en&theme=react" alt="adityaxcix01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaxcix&show_icons=true&locale=en&theme=react" alt="adityaxcix" /></p>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaxcix01&theme=react" alt="adityaxcix01"</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaxcix&theme=react" alt="adityaxcix"</p>
   </div>
 <br/>
 
@@ -40,7 +40,7 @@
 ## 📈 My Contribution Graph
 
 <br/>
-<a href="https://github.com/adityaxcix01/github-readme-activity-graph"><img alt="Aditya Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adityaxcix01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/adityaxcix/github-readme-activity-graph"><img alt="Aditya Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adityaxcix&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
@@ -61,7 +61,7 @@
 </div>
 
 ## Views and Followers
-<a href="https://github.com/adityaxcix01/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=adityaxcix01">
+<a href="https://github.com/adityaxcix/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=adityaxcix">
 </a>
-<a href="https://github.com/adityaxcix01?tab=followers"><img src="https://img.shields.io/github/followers/adityaxcix01?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/adityaxcix?tab=followers"><img src="https://img.shields.io/github/followers/adityaxcix01?label=Followers&style=social" alt="GitHub Badge"></a>
