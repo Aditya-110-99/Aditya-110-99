@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, HTML5**
 
-- 📫 How to reach me **Adityacroxtron1@gmail.com**
+- 📫 How to reach me **Contact.AdityaGupta1@gmail.com**
 
 
 ## 💻My Technical Skills
