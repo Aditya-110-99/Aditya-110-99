@@ -43,7 +43,7 @@
 
 <br/>
 <br/>
-## 📈 My Contribution Graph
+
 
 <br>
 <br>
@@ -51,8 +51,5 @@
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
 [![Top contributors](https://images.repography.com/33872148/adityaxcix/Java-Beginner-Programs/top-contributors/hewW8cYnglPKmZ0pLBTCcekiOLSdKe9DehzwpnLGShU/DusiT6vTZZERRi6qjSzvrWyQTBMDFhaTyZ2JIKoxdEo_table.svg)](https://github.com/adityaxcix/Java-Beginner-Programs/graphs/contributors)
 <br>
-
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Structure
-[![Structure](https://images.repography.com/33872148/adityaxcix/Java-Beginner-Programs/structure/hewW8cYnglPKmZ0pLBTCcekiOLSdKe9DehzwpnLGShU/exdFYcpkla3Ud5YPZVkg0ZpuqvAbGhPcqJtBE7AkBFs_table.svg)](https://github.com/adityaxcix/Java-Beginner-Programs)
 
 
