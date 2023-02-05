@@ -26,10 +26,20 @@
 
 <!--  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> -->
  
- </p>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaxcix&show_icons=true&locale=en&layout=react" alt="adityaxcix" /></p>
- 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/adityaxcix/github-readme-stats"><img alt="Aditya Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityaxcix&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/adityaxcix/github-readme-stats"><img alt="Aditya Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxcix&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
+  
+  <br/>
+  <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaxcix&theme=react" alt="Aditya Gupta"/></p>
+  </div>
+<br/>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaxcix&theme=react" alt="adityaxcix" /></p>
-
+<br/>
+<br/>
