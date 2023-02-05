@@ -50,4 +50,14 @@
 
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
 [![Top contributors](https://images.repography.com/33872148/adityaxcix/Java-Beginner-Programs/top-contributors/hewW8cYnglPKmZ0pLBTCcekiOLSdKe9DehzwpnLGShU/DusiT6vTZZERRi6qjSzvrWyQTBMDFhaTyZ2JIKoxdEo_table.svg)](https://github.com/adityaxcix/Java-Beginner-Programs/graphs/contributors)
+<br>
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/33872148/adityaxcix/Java-Beginner-Programs/recent-activity/hewW8cYnglPKmZ0pLBTCcekiOLSdKe9DehzwpnLGShU/DusiT6vTZZERRi6qjSzvrWyQTBMDFhaTyZ2JIKoxdEo_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/33872148/adityaxcix/Java-Beginner-Programs/recent-activity/hewW8cYnglPKmZ0pLBTCcekiOLSdKe9DehzwpnLGShU/DusiT6vTZZERRi6qjSzvrWyQTBMDFhaTyZ2JIKoxdEo_timeline.svg)](https://github.com/adityaxcix/Java-Beginner-Programs/commits)
+[![Issue status graph](https://images.repography.com/33872148/adityaxcix/Java-Beginner-Programs/recent-activity/hewW8cYnglPKmZ0pLBTCcekiOLSdKe9DehzwpnLGShU/DusiT6vTZZERRi6qjSzvrWyQTBMDFhaTyZ2JIKoxdEo_issues.svg)](https://github.com/adityaxcix/Java-Beginner-Programs/issues)
+[![Pull request status graph](https://images.repography.com/33872148/adityaxcix/Java-Beginner-Programs/recent-activity/hewW8cYnglPKmZ0pLBTCcekiOLSdKe9DehzwpnLGShU/DusiT6vTZZERRi6qjSzvrWyQTBMDFhaTyZ2JIKoxdEo_prs.svg)](https://github.com/adityaxcix/Java-Beginner-Programs/pulls)
+[![Trending topics](https://images.repography.com/33872148/adityaxcix/Java-Beginner-Programs/recent-activity/hewW8cYnglPKmZ0pLBTCcekiOLSdKe9DehzwpnLGShU/DusiT6vTZZERRi6qjSzvrWyQTBMDFhaTyZ2JIKoxdEo_words.svg)](https://github.com/adityaxcix/Java-Beginner-Programs/commits)
+[![Top contributors](https://images.repography.com/33872148/adityaxcix/Java-Beginner-Programs/recent-activity/hewW8cYnglPKmZ0pLBTCcekiOLSdKe9DehzwpnLGShU/DusiT6vTZZERRi6qjSzvrWyQTBMDFhaTyZ2JIKoxdEo_users.svg)](https://github.com/adityaxcix/Java-Beginner-Programs/graphs/contributors)
+[![Activity map](https://images.repography.com/33872148/adityaxcix/Java-Beginner-Programs/recent-activity/hewW8cYnglPKmZ0pLBTCcekiOLSdKe9DehzwpnLGShU/DusiT6vTZZERRi6qjSzvrWyQTBMDFhaTyZ2JIKoxdEo_map.svg)](https://github.com/adityaxcix/Java-Beginner-Programs/commits)
+
 
