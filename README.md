@@ -1,6 +1,6 @@
 [![MasterHead](https://holopin.me/adityaxcix)](https://holopin.io/@adityaxcix)
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">Currently, I am a student pursuing my Master's degree in Computer Applications</h3>
+<h3 align="center">Currently, I am a Software Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaxcix&label=Profile%20views&color=0e75b6&style=flat" alt="adityaxcix" /> </p>
 
