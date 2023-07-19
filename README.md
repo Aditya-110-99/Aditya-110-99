@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaxcix&label=Profile%20views&color=0e75b6&style=flat" alt="adityaxcix" /> </p>
 
-- 🔭At the moment **Website for a Gaming lounge**
+- 🔭At the moment **Manual Testing & Automation Testing (Selenium Webdriver and TestNG)**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 👨‍💻 All of my projects are available at [adityaxcix.ml](adityaxcix.ml)
 
-- 💬 Ask me about **Java, HTML5**
+- 💬 Ask me about **Java, Selenium Webdriver, TestNG, HTML, CSS, Mysql**
 
 - 📫 How to reach me **Contact.AdityaGupta1@gmail.com**
 
@@ -23,6 +23,8 @@
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+
 
 <!--  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> -->
  
