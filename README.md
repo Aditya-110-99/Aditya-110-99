@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">Currently, I am a Software Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaxcix&label=Profile%20views&color=0e75b6&style=flat" alt="adityaxcix" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya-110-99&label=Profile%20views&color=0e75b6&style=flat" alt="adityaxcix" /> </p>
 
 - 🔭At the moment **Manual Testing & Automation Testing (Selenium Webdriver and TestNG)**
 
@@ -31,14 +31,14 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/adityaxcix/github-readme-stats"><img alt="Aditya Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityaxcix&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/adityaxcix/github-readme-stats"><img alt="Aditya Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxcix&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/adityaxcix/github-readme-stats"><img alt="Aditya Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aditya-110-99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/adityaxcix/github-readme-stats"><img alt="Aditya Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-110-99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
   
   <br/>
   <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaxcix&theme=react" alt="Aditya Gupta"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-110-99&theme=react" alt="Aditya Gupta"/></p>
   </div>
 <br/>
 
