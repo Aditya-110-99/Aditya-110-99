@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Automation Testing**
 
-- 👨‍💻 All of my projects are available at [adityaxcix.ml](adityaxcix.ml)
-
 - 💬 Ask me about **Java, Selenium Webdriver, TestNG, HTML, CSS, Mysql**
 
 - 📫 How to reach me **Contact.AdityaGupta1@gmail.com**
